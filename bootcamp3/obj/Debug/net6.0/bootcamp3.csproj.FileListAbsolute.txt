@@ -1,0 +1,15 @@
+C:\workspace_git\bootcamp3\bin\Debug\net6.0\bootcamp3.exe
+C:\workspace_git\bootcamp3\bin\Debug\net6.0\bootcamp3.deps.json
+C:\workspace_git\bootcamp3\bin\Debug\net6.0\bootcamp3.runtimeconfig.json
+C:\workspace_git\bootcamp3\bin\Debug\net6.0\bootcamp3.dll
+C:\workspace_git\bootcamp3\bin\Debug\net6.0\ref\bootcamp3.dll
+C:\workspace_git\bootcamp3\bin\Debug\net6.0\bootcamp3.pdb
+C:\workspace_git\bootcamp3\obj\Debug\net6.0\bootcamp3.csproj.AssemblyReference.cache
+C:\workspace_git\bootcamp3\obj\Debug\net6.0\bootcamp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace_git\bootcamp3\obj\Debug\net6.0\bootcamp3.AssemblyInfoInputs.cache
+C:\workspace_git\bootcamp3\obj\Debug\net6.0\bootcamp3.AssemblyInfo.cs
+C:\workspace_git\bootcamp3\obj\Debug\net6.0\bootcamp3.csproj.CoreCompileInputs.cache
+C:\workspace_git\bootcamp3\obj\Debug\net6.0\bootcamp3.dll
+C:\workspace_git\bootcamp3\obj\Debug\net6.0\ref\bootcamp3.dll
+C:\workspace_git\bootcamp3\obj\Debug\net6.0\bootcamp3.pdb
+C:\workspace_git\bootcamp3\obj\Debug\net6.0\bootcamp3.genruntimeconfig.cache
